@@ -1,0 +1,23 @@
+{
+  "name": "youtube_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ytdown": "./yt-downloader.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "youtube-dl-exec": "^3.0.5",
+    "ytdl-core": "^4.11.5",
+    "ytpl": "^2.3.0"
+  }
+}
