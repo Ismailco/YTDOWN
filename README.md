@@ -1,3 +1,9 @@
+Y   Y  TTTTT  DDDD   OOO   W   W  N   N
+Y   Y    T    D   D O   O  W   W  NN  N
+ YYY     T    D   D O   O  W W W  N N N
+  Y      T    D   D O   O  WW WW  N  NN
+  Y      T    DDDD   OOO   W   W  N   N
+
 # YouTube Downloader CLI Tool
 
 A command-line tool for downloading YouTube videos and playlists with high quality options.
