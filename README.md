@@ -1,8 +1,10 @@
-Y   Y  TTTTT  DDDD   OOO   W   W  N   N
-Y   Y    T    D   D O   O  W   W  NN  N
- YYY     T    D   D O   O  W W W  N N N
-  Y      T    D   D O   O  WW WW  N  NN
-  Y      T    DDDD   OOO   W   W  N   N
+```
+YY   YY TTTTTTT DDDDD    OOOOO   WW      WW NN   NN
+YY   YY   TTT   DD  DD  OO   OO  WW      WW NNN  NN
+ YYYYY    TTT   DD  DD  OO   OO  WW   W  WW NN N NN
+  YYY     TTT   DD  DD  OO   OO  WW  WWW WW NN  NNN
+  YYY     TTT   DDDDD    OOOOO    WWWW WWWW NN   NN v0.1.0
+```
 
 # YouTube Downloader CLI Tool
 
